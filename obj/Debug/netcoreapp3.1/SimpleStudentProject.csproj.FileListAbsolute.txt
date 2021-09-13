@@ -1,0 +1,13 @@
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.exe
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.deps.json
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.runtimeconfig.json
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.runtimeconfig.dev.json
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.dll
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\bin\Debug\netcoreapp3.1\SimpleStudentProject.pdb
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.AssemblyInfoInputs.cache
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.AssemblyInfo.cs
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.csproj.CoreCompileInputs.cache
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.dll
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.pdb
+C:\Users\miro_\source\repos\SimpleStudentProject\SimpleStudentProject\obj\Debug\netcoreapp3.1\SimpleStudentProject.genruntimeconfig.cache

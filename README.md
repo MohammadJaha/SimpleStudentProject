@@ -5,7 +5,7 @@ This Code Provide Simple Program About **Student Name and Mark**
 
 This Program Called **Add Student Name and Mark**  
 
-This Program Uses Simple **Arrays as Data Base**    
+This Program Uses Simple **Arrays**    
 
 **This Program Will:**  
 •	Ask the User to Enter 1 to Add New Student and his Mark or 0 to Exit  
